@@ -1,0 +1,27 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`asc 1`] = `
+[
+  {
+    "name": "Alice",
+    "totalTime": 30,
+  },
+  {
+    "name": "Bob",
+    "totalTime": 40,
+  },
+]
+`;
+
+exports[`desc 1`] = `
+[
+  {
+    "name": "Bob",
+    "totalTime": 40,
+  },
+  {
+    "name": "Alice",
+    "totalTime": 30,
+  },
+]
+`;

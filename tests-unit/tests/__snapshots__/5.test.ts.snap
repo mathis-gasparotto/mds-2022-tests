@@ -1,0 +1,20 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`userStore > addPicture 1`] = `
+[
+  {
+    "id": 1,
+    "url": "oui.com",
+    "userId": 1,
+  },
+]
+`;
+
+exports[`userStore > deletePicture 1`] = `[]`;
+
+exports[`userStore > setCurrentUser 1`] = `
+{
+  "id": 1,
+  "name": "Maggio",
+}
+`;

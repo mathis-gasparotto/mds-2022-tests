@@ -1,0 +1,14 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Function should filter array by minor users, and sort by name 1`] = `
+[
+  {
+    "age": 30,
+    "name": "Charlie",
+  },
+  {
+    "age": 25,
+    "name": "Alice",
+  },
+]
+`;
